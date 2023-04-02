@@ -4,7 +4,7 @@
 use as gui app: app_translate.bat
 
 ```
-#requires
+#requires python3
 pip install PyQt5
 pip install clipboard
 ```
