@@ -1,5 +1,5 @@
 # zhtools
-requires: PyQt5,clipboard
+requires: python3,PyQt5,clipboard
 
 ```
 pip install PyQt5
