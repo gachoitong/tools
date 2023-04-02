@@ -1,13 +1,13 @@
 # zhtools
-requires: python3,PyQt5,clipboard
-
-```
-pip install PyQt5
-pip install clipboard
-```
 
 
 use as gui app: app_translate.bat
+
+```
+#requires
+pip install PyQt5
+pip install clipboard
+```
 
 ![Screenshot (13720)](https://user-images.githubusercontent.com/129648042/229337233-4d09eb35-3fd4-43de-9fda-a86262dbd2e8.png)
 
