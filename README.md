@@ -6,7 +6,7 @@ pip install clipboard
 ```
 
 
-use as gui app: python app_translate.py
+use as gui app: app_translate.bat
 
 ![Screenshot (13720)](https://user-images.githubusercontent.com/129648042/229337233-4d09eb35-3fd4-43de-9fda-a86262dbd2e8.png)
 
