@@ -1,6 +1,6 @@
 first extract dict_tovp.json from dict_tovp.zip 
 
-dict_tohv.json Han-Viet dictionary
-dict_topyf.json Pinyin dictionary
-dict_tovp.json Vietphrase dictionary
+dict_tohv.json Han-Viet dictionary/tu dien Han Viet
+dict_topyf.json Pinyin dictionary/tu dien pinyin
+dict_tovp.json Vietphrase dictionary/tu dien vietphrase
 
